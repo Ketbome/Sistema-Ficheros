@@ -12,8 +12,8 @@ El programa ofrece las siguientes funcionalidades:
 
 - cd: Cambiar de directorio. Utiliza el comando cd nombre_directorio para navegar a un directorio específico. Puedes usar ".." para ir al directorio padre.
 - ls: Listar archivos y carpetas. Utiliza el comando ls para mostrar una lista de los archivos y carpetas en el directorio actual. Puedes agregar las siguientes opciones:
-  - i: Muestra una lista de archivos y carpetas con su número de inodo.
-  - R: Muestra una lista recursiva de archivos y carpetas en el árbol completo.
+  - `-i`: Muestra una lista de archivos y carpetas con su número de inodo.
+  - `-R`: Muestra una lista recursiva de archivos y carpetas en el árbol completo.
 - mkdir: Crear una nueva carpeta. Utiliza el comando mkdir nombre_carpeta para crear una nueva carpeta en el directorio actual.
 - rm: Eliminar un archivo o carpeta. Utiliza el comando rm nombre para eliminar un archivo o carpeta en el directorio actual.
 - touch: Crear un nuevo archivo. Utiliza el comando touch nombre_archivo para crear un nuevo archivo en el directorio actual.
